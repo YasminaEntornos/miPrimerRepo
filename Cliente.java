@@ -3,7 +3,7 @@ public class Cliente {
 	private String dni;
 	private String nombre;
 	private String especialidad;
-
+    //Comentario de Pablo Cano
 	public Cliente(String dni, String nombre, String especialidad) {
 		this.dni = dni;
 		this.nombre = nombre;
