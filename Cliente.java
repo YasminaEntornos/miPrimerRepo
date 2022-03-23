@@ -5,6 +5,8 @@ public class Cliente {
 	private String especialidad;
 	private String nacionalidad;
 
+	//Comentario de Pablo Cano
+
 	public Cliente(String dni, String nombre, String especialidad, String nacionalidad) {
 		this.dni = dni;
 		this.nombre = nombre;
